@@ -22,7 +22,7 @@
 
   <groupId>org.kiji.scoring</groupId>
   <artifactId>kiji-scoring-root</artifactId>
-  <version>0.8.1-SNAPSHOT</version>
+  <version>0.8.1</version>
   <packaging>pom</packaging>
 
   <parent>
